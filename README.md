@@ -3,5 +3,5 @@
 
 ## About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+The assets and the main idea are from [this great freeCodeCamp tutorial ](https://www.youtube.com/watch?v=ZniVgo8U7ek), i only customized with a football thematic.
 
